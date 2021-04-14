@@ -58,8 +58,4 @@ Damn, crap, I ain't never, damn, I just got ta say, I knew you were something el
 
 She still had that look in her eye as she smiled at him. I never, never ever would certainly have believed it myself. She claimed if it really did not just happen.
 
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
-
-
-
 
