@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Cuckold Wife Clip Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Gangbang Lover`,
+      summary: `We just love a good Gangbang`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Sharing Clips of Gangbang Partys with my Cuckold Wife`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `kylemathews`,
